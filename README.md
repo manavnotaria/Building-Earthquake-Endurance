@@ -11,7 +11,7 @@ Which factors affect the severity of the damage of a building after an earthquak
 
 Predicting the severity of damage of a building after an earthquake will be a very useful tool to the civil engineering and architecture industry.
 
-**Variables Considered **
+**Variables Considered**
 1. Age
 2. Foundation type 
 3. Height
