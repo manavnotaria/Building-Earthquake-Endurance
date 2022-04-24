@@ -1,14 +1,17 @@
 # Building-Earthquake-Endurance
- Earthquake Database : Which factors affect the severity of the damage of a building after an earthquake?
+
+Collected real-time data to accurately predict the factors that affect the severity of the damage of a building after an earthquake
+
+Earthquake Database : Which factors affect the severity of the damage of a building after an earthquake?
   
   
-  ##Defined Problem
+**Defined Problem**
 
 Which factors affect the severity of the damage of a building after an earthquake?
 
 Predicting the severity of damage of a building after an earthquake will be a very useful tool to the civil engineering and architecture industry.
 
-##Variables Considered 
+**Variables Considered **
 1. Age
 2. Foundation type 
 3. Height
@@ -18,7 +21,7 @@ Predicting the severity of damage of a building after an earthquake will be a ve
 7. Roof type
 
  
-##Conclusion
+**Conclusion**
 
 Foundation type is the most influential factor in determining the severity of the damage of a building after an earthquake
 
